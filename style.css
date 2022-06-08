@@ -1,3 +1,9 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, #20203d, #3636e4);
+  color: wheat;
+}
 .timerBtn {
   width: 70px;
   height: 25px;
